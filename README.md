@@ -23,30 +23,30 @@ The Simple OCR is a desktop application that uses the PyQt5, OpenCV, and pytesse
 Clone this repository:
 
 ```powershell
-> git clone https://github.com/vinhgiga/simple-ocr.git
+$ git clone https://github.com/vinhgiga/simple-ocr.git
 ```
 
-Change working directory to simple-ocr:
+Change working directory to `simple-ocr`:
 
 ```powershell
-> cd simple-ocr
+$ cd simple-ocr
 ```
 
 (Optional) Create and activate a Python virtual environment:
 
 ```powershell
-> python -m venv .venv
-> .venv\Scripts\activate
+$ python -m venv .venv
+$ .venv\Scripts\activate
 ```
 
 Install Python modules:
 
 ```powershell
-> pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 Run app:
 
 ```powershell
-> python main.py
+$ python main.py
 ```
