@@ -7,18 +7,18 @@ The Simple OCR is a desktop application that uses the PyQt5, OpenCV, and pytesse
 - Image preprocessing options to improve text recognition results.
 - Displaying and saving the recognized text to the Clipboard or a file.
 
-### Demo
+## Demo
 
 ![Demo](/demo/demo.gif)
 
-### Installation
+## Installation
 
-#### Requirements
+### Requirements
 
 - Windows 10 or higher
 - Python 3.9
 
-#### Installation on Windows
+### Installation on Windows
 
 Clone this repository:
 
