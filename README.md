@@ -26,7 +26,7 @@ Clone this repository:
 $ git clone https://github.com/vinhgiga/simple-ocr.git
 ```
 
-Change working directory to `simple-ocr`:
+Change the working directory to `simple-ocr`:
 
 ```powershell
 $ cd simple-ocr
